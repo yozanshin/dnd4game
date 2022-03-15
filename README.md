@@ -1,1 +1,1 @@
-# dnd4game
+# Game manager for DnD4
